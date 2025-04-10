@@ -172,3 +172,4 @@ D:\Programming\ITI\WebAPI\EGWalks.API\EGWalks.API\bin\Debug\net9.0\Microsoft.Asp
 D:\Programming\ITI\WebAPI\EGWalks.API\EGWalks.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Programming\ITI\WebAPI\EGWalks.API\EGWalks.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 D:\Programming\ITI\WebAPI\EGWalks.API\EGWalks.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Programming\ITI\WebAPI\EGWalks.API\EGWalks.API\obj\Debug\net9.0\EGWalks.API.sourcelink.json
